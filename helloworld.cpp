@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     cout << "Master C++ :v" << endl;
+    cout << "Hello world";
     
         
 
